@@ -1,0 +1,19 @@
+TYPES OF SEO
+1. On Page SEO
+2. OFF Page SEO
+
+ON PAGE SEO
+On page seo is the process of optimizing elements on your website itself.
+Ex: Header tag, meta descriptions, title tags, keywords research, keyword usage, internal links, site maps.
+
+KEYWORD RESEARCH
+> It is the most important activity of the SEO.
+> It is a practice where you choose the primary and secondary keywords around which meta tags and content will be based on.
+> The primary component to keyword research are : 
+1. Search volumes
+2. Competitions
+3. Relevancy
+NOTE : Always select More Search Voulme and less Competitions.
+
+The Tool used for the keyword research : Google Keyword Planner
+Link : https://www.wordstream.com/keywords

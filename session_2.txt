@@ -1,0 +1,22 @@
+HOW DOES GOOGLE RANK A WEBSITE?
+Search engines like google follows three basic steps to rank a website. They are : 
+1. Crawling 
+2. Indexing
+3. Ranking
+
+
+CRAWLING
+Crawling is a process done by search engine spiders/bots where they scan a website and copy the entire website content and stores it in the search engine's index.
+
+INDEXING
+In case a website is not in the search engine index, none of the users will be able to find the website.
+
+RANKING
+When a user types a query on the google search engine, the most relevant websites will appear on the search result based on multiple factors like user's location, language, user experience etc.
+
+
+HOW SEO IS RELATED WITH USER EXPERIENCE
+1. Page Load Time
+2. Average Session Duration
+3. Bounce Rate
+4. Based on Cookies
