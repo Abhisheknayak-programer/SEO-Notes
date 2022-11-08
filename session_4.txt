@@ -1,1 +1,32 @@
 TITLE TAG ON SEO
+1. Title tag is the most important factor of on page SEO.
+2. It is the header title element displayed on SE.
+3. Search engine like Google display the first 50-60 characters of the title tag.
+4. This tag summarizes the website's content.
+5. Title tag influences click through rates.
+
+META DESCRIPTION TAG
+1. Meta description is a brief description (of upto 155 characters displayed on SE) that summarizes the content of the website.
+2. They are displayed on the search engine results just below the title link which is shown.
+3. While the title tags have less description, a meta description gives users more understanding of what your webpage is offering.
+
+URL STRUCTURE
+1. URL : Uniform Resourse Locator.
+2. Use SEO friendly Urls, as they help to understand what the webpage is about.
+3. Poor Url Structure is a big issue in the SEO which may result in low ranking.
+Ex: https://en.wikipedia.org/wiki/Ice_cream (GOOD)
+EX: https://www.thespruceeats.com/what-is-ice-cream-1328784 (AVERAGE)
+EX: https://blinkit.com/cn/sweet-tooth/ice-cream-more/cid/9/183 (BAD)
+
+HEADER TAG [h1,h2,h3,h4,h5,h6]
+1. Header tags are the HTML tags that used to identify headings and subheadings of your content.
+2. The hierarchy of header tag goes from h1 to h6.
+3. Where H1 is the main heading of the page, H2 is a subheading of H1 and H3 is the subheading of H2 and so on.
+4. For Search engine, these tags are easier to read and understand the content.
+5. Try to use Mostly h1 and h2 tags for making website and h3,h4,h5,h6 use less or when needed.
+
+
+INTERNAL LINKS [Anchor Tag]
+1. Internal Link is a hyperlink that goes from one page of your website to a different page on your website.
+2. These links allow users to navigate the website.
+3. Also these links are useful to spread link equity (value passed from one website to anather website).

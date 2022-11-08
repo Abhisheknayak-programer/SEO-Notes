@@ -6,15 +6,13 @@ OPTIMIZATION : The Optimization is a process to optimize our code so that the we
 SEO : Search Engine Optimization is a process of Optimization of our website so that our website can load faster in the search engine and can give user a better experience.
 
 
-
-WHY SEO?
+WHY WE NEED SEO?
 1. Your competitors have better content than yours.
 2. Improper usage of keywords.
 3. poor link building practices. (URL : Uniform Resources Locator)
 4. your website load time is slow.
 5. your website does not have a good user experience.
 6. your website is de-indexed by mistake.
-
 
 
 WHAT ARE IMPORTANT IN SEO
