@@ -1,0 +1,14 @@
+Keyword Usage 
+1. When a search engine crawls a wesbite it uses NLP (Natural Language Processing).
+Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can.
+2. Using NLP, search engine looks for content and Keyword.
+Ex: When your website is about digital marketing and if you have only the Keyword digital marketing used in it, then you might not rank for the Keyword digital marketing in the search engine results.
+
+
+SITEMAPS
+1. It is designed to help both the users and search engines to understand the structure of the website.
+2. There are two types of sitemaps :
+    > HTML sitemaps : Designed for Humans. 
+    > XML sitemaps : Designed for Crawlers. 
+
+SITE MAP GENERATE LINK : https://www.xml-sitemaps.com/
