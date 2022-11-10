@@ -12,29 +12,70 @@
 </head>
 
 <style>
-    .redColorComponent {
-        color: red;
+    :root {
+        --primary-color: #8c55fb;
+    }
+
+    .component {
         padding: 20px;
         font-size: 20px;
         font-weight: 800;
-        background-color: green;
+        background-color: aqua;
         border-radius: 20px;
         margin-bottom: 10px;
+    }
+
+    .redColorComponent {
+        color: red;
+    }
+
+    .blackColorComponent {
+        color: black;
+    }
+
+    .mainColor {
+        color: var(--primary-color);
     }
 </style>
 
 <body>
 
-    <div class="redColorComponent">
+    <div class="redColorComponent component">
         <h1>Abhishek Nayak</h1>
     </div>
 
     <div></div>
     <div></div>
 
-    <section class="redColorComponent">
+    <section class="blackColorComponent component">
         <p>Pankaj Nandwani</p>
     </section>
+
+
+    <div class="ghar">
+        <h1 class="mainColor">Programmer - Abhishek Nayak</h1>
+        <div>
+            <p class="mainColor">WEB CODER</p>
+            <span class="mainColor">MERN Stack Developer</span>
+        </div>
+    </div>
+
+
+    <div>
+        <h1 class="mainColor">
+            Pankaj Web Coder
+        </h1>
+    </div>
+
+
+    <section>
+        <div></div>
+        <div></div>
+        <div></div>
+    </section>
+
+
+    <h1><span><i></i></span></h1>
 
 </body>
 
