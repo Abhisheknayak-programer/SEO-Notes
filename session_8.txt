@@ -2,3 +2,4 @@ HOW TO REMOVE UNNECESSARY CODE :
 1. Use a single class for multiple same purpose works.
 2. Use Nested Components rather using Many Different components.
 3. Use CSS Variables to store multiple things so that will never repeat the code again and again.
+
